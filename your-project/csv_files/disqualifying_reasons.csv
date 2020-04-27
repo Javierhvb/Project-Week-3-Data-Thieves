@@ -1,0 +1,1863 @@
+status,year,points
+Engine,1991,66
+Engine,1992,62
+Engine,1986,62
+Accident,1977,60
+Engine,1988,59
+Engine,1985,58
+Engine,1970,56
+Accident,1975,54
+Engine,1987,53
+Engine,1994,52
+Engine,1977,51
+Engine,1983,49
+Accident,1976,48
+Spun off,1995,48
+Accident,1978,48
+Engine,1984,47
+Spun off,1993,47
+Engine,1997,46
+Engine,1990,46
+Engine,1979,46
+Spun off,1992,44
+Collision,1994,43
+Engine,1989,42
+Withdrew,1963,41
+Engine,2002,41
+Engine,1978,40
+Spun off,1994,40
+Engine,1982,40
+Gearbox,1995,38
+Spun off,1997,38
+Collision,1982,37
+Spun off,1999,37
+Spun off,1989,37
+Spun off,1996,36
+Spun off,1991,36
+Engine,1980,36
+Accident,1985,36
+Engine,1967,36
+Engine,1974,35
+Engine,1996,35
+Engine,1993,35
+Accident,2006,34
+Collision,2012,33
+Engine,1971,32
+Engine,2001,32
+Engine,2000,32
+Collision,1981,32
+Collision,1996,32
+Spun off,1982,32
+Withdrew,1962,31
+Engine,1976,31
+Gearbox,1992,31
+Turbo,1984,30
+Gearbox,1991,30
+Collision,1993,30
+Engine,1954,30
+Collision,2000,30
+Engine,1995,30
+Engine,1998,30
+Accident,1980,30
+Spun off,1998,30
+Engine,1981,29
+Accident,1979,29
+Engine,1951,29
+Engine,1958,29
+Accident,1973,28
+Collision,2008,28
+Gearbox,1998,28
+Gearbox,1993,28
+Withdrew,1961,28
+Collision,1989,27
+Engine,1975,27
+Turbo,1987,27
+Gearbox,1989,27
+Spun off,2000,27
+Engine,1961,26
+Spun off,1984,26
+Engine,1960,26
+Engine,1964,25
+Engine,1953,25
+Accident,1987,25
+Gearbox,1994,25
+Collision,2010,25
+Engine,2003,25
+Collision,1998,25
+Turbo,1985,25
+Turbo,1986,25
+Engine,1972,25
+Accident,1986,25
+Collision,1990,24
+Gearbox,1999,24
+Collision,1995,24
+Accident,1984,24
+Engine,1968,24
+Spun off,1990,23
+Collision,2001,23
+Gearbox,1990,23
+Accident,1958,23
+Electrical,1989,22
+Engine,1956,22
+Disqualified,1984,22
+Collision,1997,22
+Collision,2004,21
+Gearbox,1963,21
+Collision,1983,21
+Accident,1968,21
+Engine,1999,21
+Engine,1969,21
+Engine,1966,21
+Accident,2005,21
+Spun off,2001,21
+Spun off,1988,20
+Engine,2004,20
+Electrical,1984,20
+Accident,1971,20
+Engine,1952,20
+Electrical,1986,20
+Engine,1973,20
+Collision,2018,19
+Collision,2009,19
+Collision,1992,19
+Gearbox,1984,19
+Suspension,1974,19
+Collision,2007,19
+Spun off,1983,19
+Collision,2002,19
+Hydraulics,2010,19
+Engine,1963,18
+Spun off,1981,18
+Suspension,1979,18
+Accident,2003,18
+Electrical,1987,18
+Gearbox,1983,18
+Engine,1950,18
+Gearbox,1986,18
+Engine,1957,17
+Collision,1974,17
+Engine,1965,17
+Gearbox,1987,17
+Accident,2010,17
+Engine,2006,16
+Accident,1962,16
+Gearbox,1997,16
+Collision,2019,16
+Accident,1972,16
+Accident,1974,16
+Collision,2011,16
+Collision,1999,16
+Engine,2017,16
+Engine,1959,16
+Accident,1981,16
+Accident,2007,15
+Gearbox,1988,15
+Accident,1963,15
+Accident,1956,15
+Suspension,1981,15
+Collision,2016,15
+Gearbox,2000,15
+Gearbox,1974,15
+Suspension,1993,15
+Turbo,1983,15
+Gearbox,1980,15
+Accident,2011,14
+Accident,2017,14
+Accident,1960,14
+Collision,1988,14
+Withdrew,2005,14
+Suspension,1972,14
+Spun off,1980,14
+Spun off,1979,14
+Collision,2014,14
+Gearbox,2001,14
+Gearbox,1977,14
+Not classified,1971,14
+Spun off,2002,14
+Spun off,1985,13
+Accident,1966,13
+Accident,1959,13
+Gearbox,1972,13
+Out of fuel,1984,13
+Gearbox,1978,13
+Accident,1957,13
+Engine,2018,13
+Transmission,1985,13
+Suspension,1973,13
+Suspension,1980,13
+Gearbox,2003,13
+Electrical,1995,13
+Transmission,1955,13
+Engine,2010,13
+Suspension,1976,13
+Gearbox,1965,12
+Clutch,1990,12
+Transmission,1978,12
+Not classified,1973,12
+Transmission,1960,12
+Transmission,1959,12
+Gearbox,1973,12
+Retired,2015,12
+Transmission,1979,12
+Gearbox,2011,12
+Gearbox,1981,12
+Spun off,1978,12
+Not classified,1966,12
+Collision,2013,12
+Collision,2017,12
+Transmission,1992,12
+Engine,2008,12
+Electrical,2000,12
+Electrical,1985,12
+Accident,1961,12
+Accident,2008,12
+Hydraulics,2002,12
+Accident,1950,12
+Hydraulics,2007,11
+Spun off,2008,11
+Accident,1954,11
+Accident,1953,11
+Electrical,1990,11
+Not classified,1970,11
+Suspension,1988,11
+Transmission,1975,11
+Accident,2013,11
+Gearbox,1962,11
+Gearbox,1960,11
+Not classified,1972,11
+Gearbox,2002,11
+Engine,2005,11
+Ignition,1965,11
+Transmission,1999,11
+Hydraulics,2006,11
+Collision,2015,11
+Engine,1955,11
+Electrical,1988,10
+Gearbox,1979,10
+Accident,1993,10
+Out of fuel,1986,10
+Accident,1970,10
+Gearbox,1976,10
+Transmission,1980,10
+Accident,2012,10
+Accident,2009,10
+Suspension,1975,10
+Collision,1991,10
+Retired,2016,10
+Electrical,1994,10
+Accident,1969,10
+Accident,1955,10
+Transmission,1986,10
+Collision,1973,10
+Accident,1964,9
+Ignition,1968,9
+Gearbox,2007,9
+Accident,1951,9
+Gearbox,2010,9
+Halfshaft,1973,9
+Accident,1992,9
+Electrical,1982,9
+Engine,1962,9
+Transmission,1977,9
+Transmission,1991,9
+Electrical,1997,9
+Accident,2014,9
+Suspension,1967,9
+Fuel system,1973,9
+Fuel system,1974,9
+Fuel system,1978,9
+Fuel system,1982,9
+Gearbox,1955,9
+Retired,1953,9
+Suspension,1971,9
+Power Unit,2017,9
+Electrical,1983,9
+Brakes,2001,9
+Suspension,1987,9
+Clutch,1974,9
+Disqualified,1989,9
+Overheating,1958,9
+Out of fuel,1987,9
+Brakes,1979,9
+Suspension,1989,9
+Suspension,1983,8
+Engine,2007,8
+Brakes,2016,8
+Handling,1982,8
+Collision damage,2017,8
+Suspension,1968,8
+Brakes,2009,8
+Gearbox,2004,8
+Suspension,1969,8
+Electrical,1996,8
+Electrical,1991,8
+Transmission,1956,8
+Axle,1953,8
+Engine,2014,8
+Brakes,1990,8
+Suspension,1962,8
+Gearbox,1985,8
+Not classified,1975,8
+Spun off,2007,8
+Not classified,1974,8
+Gearbox,1982,8
+Clutch,1992,8
+Oil pressure,1976,8
+Clutch,1988,8
+Clutch,1985,8
+Clutch,1982,8
+Overheating,1973,8
+Gearbox,1969,8
+Gearbox,1996,8
+Gearbox,1964,8
+Hydraulics,2000,8
+Retired,2014,8
+Hydraulics,2001,8
+Transmission,1953,8
+Hydraulics,2005,8
+Suspension,2003,8
+Spun off,2006,8
+Spun off,1987,8
+Electrical,1976,7
+Halfshaft,1969,7
+Halfshaft,1968,7
+Engine,2016,7
+Gearbox,2015,7
+Driveshaft,2006,7
+Fuel pump,1958,7
+Electrical,2001,7
+Fuel system,1972,7
+Fuel system,1976,7
+Fuel system,1977,7
+Gearbox,1958,7
+Gearbox,1959,7
+Halfshaft,1988,7
+107% Rule,1996,7
+Accident,2004,7
+Suspension,1970,7
+Collision,1979,7
+Accident,1997,7
+Suspension,1978,7
+Brakes,1999,7
+Not classified,1968,7
+Not classified,1980,7
+Suspension,1977,7
+Transmission,1987,7
+Not classified,1986,7
+Brakes,1987,7
+Accident,2015,7
+Transmission,2004,7
+Accident,2018,7
+Transmission,1968,7
+Spun off,2004,7
+Brakes,2018,7
+Withdrew,1954,7
+Suspension,1964,7
+Brakes,1988,7
+Chassis,1988,7
+Brakes,1986,7
+Throttle,1998,7
+Transmission,1989,7
+Transmission,1981,7
+Hydraulics,1999,7
+Transmission,1990,7
+Clutch,1959,7
+Spun off,1972,7
+Withdrew,1976,7
+Spun off,1977,7
+Suspension,1999,7
+Clutch,1953,7
+Brakes,1980,7
+Transmission,1951,7
+Accident,1990,7
+Ignition,1963,7
+Collision,2006,7
+Transmission,1954,7
+Fuel system,1975,6
+Spun off,1986,6
+Exhaust,1985,6
+Fuel pressure,2001,6
+Spun off,2003,6
+Spun off,2005,6
+Spun off,2009,6
+Retired,2012,6
+Clutch,1999,6
+Transmission,1966,6
+Brakes,2019,6
+Throttle,1988,6
+Suspension,2012,6
+Suspension,2010,6
+Throttle,1990,6
+Suspension,2002,6
+Throttle,1991,6
+Suspension,2000,6
+Brakes,1974,6
+Suspension,1996,6
+Suspension,1990,6
+Brakes,1989,6
+Suspension,1986,6
+Suspension,1982,6
+Suspension,1966,6
+Brakes,2014,6
+Suspension,1965,6
+Brakes,2017,6
+Electrical,1992,6
+Suspension,2016,6
+Gearbox,1950,6
+Oil pressure,1950,6
+Not classified,1985,6
+Not classified,1981,6
+Accident,2002,6
+Collision,1972,6
+Withdrew,1965,6
+Ignition,1987,6
+Accident,1994,6
+Collision,1986,6
+Ignition,1967,6
+Accident,1991,6
+Ignition,1961,6
+Gearbox,2008,6
+Ignition,1951,6
+Collision damage,2016,6
+Withdrew,1975,6
+Gearbox,2016,6
+Accident,1967,6
+Hydraulics,2013,6
+Withdrew,1979,6
+Halfshaft,1976,6
+Hydraulics,1998,6
+Oil leak,1968,6
+Oil leak,1966,6
+Overheating,1987,6
+Clutch,1970,6
+Transmission,2001,6
+Electrical,1979,6
+Electrical,1999,6
+Gearbox,1968,6
+Withdrew,1955,6
+Gearbox,1970,6
+Retired,1952,6
+Tyre,1979,6
+Overheating,1961,6
+Electrical,2003,6
+Gearbox,1952,6
+Out of fuel,1988,6
+Out of fuel,1985,6
+Disqualified,1983,6
+Oil pressure,1970,6
+Power Unit,2014,6
+Transmission,1982,5
+Transmission,1994,5
+Withdrew,1981,5
+Withdrew,1960,5
+Throttle,1996,5
+Withdrew,1970,5
+Turbo,1982,5
+Wheel,2010,5
+Withdrew,1964,5
+Transmission,1984,5
+Transmission,2000,5
+Hydraulics,1996,5
+Throttle,1983,5
+Magneto,1951,5
+Gearbox,1975,5
+Out of fuel,1982,5
+Oil pressure,1968,5
+Oil leak,1978,5
+Oil leak,1972,5
+Not classified,1995,5
+Not classified,1982,5
+Not classified,1967,5
+Mechanical,2006,5
+Injection,1982,5
+Suspension,2014,5
+Ignition,1969,5
+Ignition,1966,5
+Gearbox,2006,5
+Gearbox,2009,5
+Hydraulics,2017,5
+Gearbox,2017,5
+Halfshaft,1958,5
+Hydraulics,2003,5
+Handling,1974,5
+Overheating,1960,5
+Overheating,1964,5
+Overheating,1984,5
+Gearbox,1971,5
+Suspension,2007,5
+Suspension,2001,5
+Suspension,1998,5
+Suspension,1997,5
+Suspension,1991,5
+Suspension,1963,5
+Suspension,1958,5
+Handling,1980,5
+Fuel system,1979,5
+Fuel system,1981,5
+Fuel system,1984,5
+Fuel system,1989,5
+Fuel system,1993,5
+Retired,2011,5
+Puncture,1980,5
+Power Unit,2016,5
+Power Unit,2015,5
+Overheating,1988,5
+Gearbox,1966,5
+Engine,2019,5
+Ignition,1971,5
+Disqualified,1982,5
+Accident,2016,5
+Disqualified,2004,5
+Electrical,1980,5
+Electrical,1981,5
+Electrical,1993,5
+Accident,1952,5
+Accident,2019,5
+Collision damage,2018,5
+Disqualified,1990,5
+Clutch,1957,5
+Accident,1995,5
+Brakes,2015,5
+Clutch,1976,5
+Clutch,1989,5
+Clutch,1966,5
+Clutch,1987,5
+Clutch,1984,5
+Brakes,1975,5
+Clutch,1981,5
+Collision,2003,5
+Disqualified,1978,5
+Brakes,1952,5
+Differential,1967,5
+Accident,1989,5
+Electrical,1977,5
+Tyre,1975,4
+Halfshaft,1999,4
+Ignition,1964,4
+Tyre,1973,4
+Hydraulics,2008,4
+Halfshaft,1974,4
+Collision,2005,4
+Collision,1984,4
+Ignition,1970,4
+Turbo,1979,4
+Ignition,1974,4
+Ignition,1977,4
+Steering,1986,4
+Clutch,1983,4
+Gearbox,2014,4
+Fuel system,1988,4
+Wheel,2018,4
+Fuel pressure,2003,4
+Fuel pump,1954,4
+Fuel pump,1968,4
+Fuel system,1956,4
+Retired,1954,4
+Fuel system,1968,4
+Clutch,1964,4
+Fuel system,1983,4
+Fuel system,1985,4
+Fuel system,1992,4
+Radiator,1989,4
+Fuel system,2003,4
+Disqualified,2006,4
+Disqualified,2005,4
+Gearbox,1956,4
+Disqualified,1996,4
+Disqualified,1994,4
+Transmission,2006,4
+Steering,1956,4
+Disqualified,1974,4
+Disqualified,1971,4
+Injection,1967,4
+Transmission,1974,4
+Transmission,2002,4
+Transmission,1998,4
+Throttle,1973,4
+Brakes,1996,4
+Clutch,1995,4
+Oil pressure,1952,4
+Brakes,1995,4
+Oil pressure,1963,4
+Overheating,1989,4
+Oil pressure,1971,4
+Oil pressure,1984,4
+Throttle,1953,4
+Clutch,1975,4
+Suspension,1985,4
+Suspension,2019,4
+Brakes,1985,4
+Overheating,1974,4
+Brakes,1973,4
+Suspension,1995,4
+Brakes,1978,4
+Overheating,1950,4
+Overheating,1951,4
+Brakes,1981,4
+Overheating,1967,4
+Overheating,1970,4
+Brakes,1959,4
+Brakes,2000,4
+Brakes,2002,4
+Not classified,1977,4
+Transmission,1997,4
+Transmission,1995,4
+Transmission,1988,4
+Suspension,1954,4
+Fuel leak,1969,4
+Mechanical,2002,4
+Not classified,1953,4
+Transmission,1957,4
+Not classified,1969,4
+Not classified,1976,4
+Not classified,1983,4
+Brakes,1958,4
+Not classified,1984,4
+Not classified,1987,4
+Oil leak,1950,4
+Oil leak,1953,4
+Oil leak,1957,4
+Oil leak,1969,4
+Oil leak,1970,4
+Brakes,1954,4
+Throttle,1994,4
+Throttle,1993,4
+Clutch,1960,4
+Handling,1983,4
+Spun off,1958,4
+Engine,2012,4
+Electrical,2014,4
+Electrical,2005,4
+Clutch,1954,4
+Fuel leak,1957,4
+Spun off,1975,4
+Excluded,1988,4
+Spun off,1953,4
+Driveshaft,2001,4
+Engine,2011,4
+Electrical,2015,4
+Withdrew,1956,4
+Engine,2015,4
+Electrical,1972,4
+Spun off,1974,4
+Wheel bearing,1980,4
+Accident,1965,4
+Withdrew,1973,4
+Accident,1982,4
+Oil leak,1956,3
+Brakes,2005,3
+Brakes,2006,3
+Brakes,2004,3
+Halfshaft,1972,3
+Halfshaft,1995,3
+Differential,1972,3
+Throttle,2002,3
+ERS,2014,3
+Alternator,1965,3
+Differential,1971,3
+Withdrew,1982,3
+Halfshaft,1982,3
+Oil leak,1954,3
+Puncture,2018,3
+Halfshaft,1986,3
+Oil leak,1967,3
+Throttle,1999,3
+Oil leak,1955,3
+Vibrations,2012,3
+Oil leak,1965,3
+Oil leak,1959,3
+Oil leak,1983,3
+Oil leak,1973,3
+Halfshaft,1967,3
+Disqualified,1988,3
+Disqualified,1987,3
+Spun off,1959,3
+Electrical,1966,3
+Spun off,1960,3
+Throttle,1974,3
+Steering,1957,3
+Oil pipe,1950,3
+Withdrew,1952,3
+Throttle,1982,3
+Oil leak,2011,3
+Withdrew,1987,3
+Oil leak,2001,3
+Differential,1996,3
+Throttle,1989,3
+Gearbox,2005,3
+Oil leak,1991,3
+Differential,1987,3
+Differential,1986,3
+Gearbox,2012,3
+Spun off,1976,3
+Steering,1979,3
+Throttle,1995,3
+Gearbox,2018,3
+Halfshaft,1952,3
+Radiator,1968,3
+Radiator,1967,3
+Clutch,2001,3
+Oil leak,1976,3
+Brakes,2007,3
+Overheating,1971,3
+Not classified,1989,3
+Spun off,1968,3
+Magneto,1959,3
+Magneto,1958,3
+Collision,1987,3
+Magneto,1952,3
+Collision,1977,3
+Suspension,1956,3
+Ignition,1973,3
+Suspension,1955,3
+Physical,1991,3
+Injury,1994,3
+Ignition,1981,3
+Ignition,1982,3
+Ignition,1983,3
+Ignition,1984,3
+Axle,1952,3
+Suspension,1953,3
+Transmission,2011,3
+Injection,1963,3
+Injection,1964,3
+Transmission,1993,3
+Injection,1972,3
+Alternator,1991,3
+Withdrew,1974,3
+Suspension,1952,3
+Engine,2013,3
+Alternator,1994,3
+Transmission,1996,3
+Ignition,1962,3
+Alternator,1990,3
+Alternator,1989,3
+Puncture,1981,3
+Puncture,2005,3
+Clutch,2002,3
+Brakes,2010,3
+Tyre,2004,3
+Physical,1960,3
+Steering,2001,3
+Transmission,1950,3
+Puncture,1986,3
+Tyre,1986,3
+Tyre,1985,3
+Driveshaft,2002,3
+Collision,1959,3
+Tyre,1976,3
+Magneto,1960,3
+Differential,1964,3
+Driver unwell,1988,3
+Hydraulics,2004,3
+Differential,1953,3
+Hydraulics,2011,3
+Power loss,2019,3
+Battery,1990,3
+Power loss,2018,3
+Engine,2009,3
+Ignition,1952,3
+Power loss,2015,3
+Transmission,1976,3
+Tyre,2005,3
+Brakes,1956,3
+Accident,1988,3
+Electrical,1998,3
+Distributor,1983,3
+Distributor,1981,3
+Wheel bearing,1986,3
+Clutch,1965,3
+Brakes,1960,3
+Brakes,1977,3
+Disqualified,2018,3
+Out of fuel,1995,3
+Retired,2007,3
+Wheel,1973,3
+Electrical,2006,3
+Wheel bearing,1993,3
+Clutch,1951,3
+Fuel system,1986,3
+Fuel pressure,2007,3
+Out of fuel,1999,3
+Electrical,2002,3
+Wheel,2013,3
+Retired,2010,3
+Suspension,1994,3
+Fuel pressure,1999,3
+Overheating,1978,3
+Wheel,1978,3
+Out of fuel,1991,3
+Wheel,1983,3
+Out of fuel,1977,3
+Brakes,1972,3
+Wheel,1990,3
+Wheel,1989,3
+Suspension,2005,3
+Wheel,1987,3
+Fuel pump,1972,3
+Throttle,1967,3
+Suspension,2006,3
+Fuel pump,1971,3
+Electrical,2017,3
+Fuel pump,1969,3
+Suspension,2011,3
+Clutch,1952,3
+Fuel pump,1963,3
+Suspension,2013,3
+Wheel,1979,3
+Clutch,1986,3
+Fuel system,1966,3
+Oil pump,1954,3
+Oil pressure,1985,3
+Retired,2009,3
+Clutch,1973,3
+Overheating,1957,3
+Clutch,1980,3
+Oil pressure,1967,3
+Wheel,1953,3
+Clutch,1979,3
+Clutch,1958,3
+Gearbox,1961,3
+Electrical,1975,3
+Brakes,1983,3
+Brakes,1984,3
+Fuel leak,1974,3
+Oil pressure,1962,3
+Withdrew,2015,3
+Overheating,1968,3
+Electrical,1973,3
+Fuel leak,1971,3
+Fuel leak,1968,3
+Overheating,1993,3
+Retired,2013,3
+Oil pressure,1965,3
+Gearbox,1954,3
+Spun off,1954,3
+Spun off,2013,3
+Brakes,1993,3
+Clutch,1963,3
+Oil pressure,1973,3
+Chassis,1982,3
+Out of fuel,1975,3
+Spun off,1955,3
+Gearbox,1953,3
+Axle,1951,2
+Mechanical,2014,2
+Battery,2016,2
+Out of fuel,1981,2
+Out of fuel,2003,2
+Axle,1954,2
+Battery,1984,2
+Transmission,1958,2
+Not classified,1952,2
+Out of fuel,1980,2
+Withdrew,2016,2
+Withdrew,1977,2
+Out of fuel,1979,2
+Suspension,1992,2
+Battery,2017,2
+Not classified,1963,2
+Axle,1956,2
+Withdrew,1995,2
+Brakes,2013,2
+Battery,1986,2
+Mechanical,2013,2
+Overheating,1959,2
+Magneto,1953,2
+Withdrew,2014,2
+Overheating,1953,2
+Physical,1995,2
+Transmission,1973,2
+Alternator,2012,2
+Overheating,1956,2
+Physical,1990,2
+Clutch,1978,2
+Brakes,1982,2
+Physical,1993,2
+Collision,1976,2
+Transmission,1952,2
+Transmission,1969,2
+Electrical,2012,2
+Suspension,1960,2
+Overheating,1963,2
+Brakes,1976,2
+Suspension,1961,2
+Mechanical,2012,2
+Magneto,1955,2
+Throttle,1968,2
+Out of fuel,1974,2
+Brakes,2012,2
+Oil pressure,1969,2
+Clutch,1993,2
+Oil leak,1995,2
+Oil leak,1994,2
+Withdrew,1992,2
+Oil pressure,1972,2
+Brakes,1955,2
+Throttle,1992,2
+Withdrew,1985,2
+Clutch,1991,2
+Overheating,1986,2
+Oil pressure,1991,2
+Oil leak,1982,2
+Electrical,1956,2
+Clutch,1996,2
+Oil leak,1977,2
+Oil leak,1975,2
+Clutch,1994,2
+Brakes,2003,2
+Electrical,1964,2
+Throttle,1975,2
+Oil pressure,1955,2
+Withdrew,1990,2
+Oil pipe,1971,2
+Electrical,1970,2
+Oil pressure,1961,2
+Oil pipe,1964,2
+Electrical,1974,2
+Brakes,1997,2
+Throttle,1984,2
+Throttle,1977,2
+Throttle,1978,2
+Brakes,1998,2
+Overheating,2002,2
+Throttle,1981,2
+Oil leak,2016,2
+Electrical,1965,2
+Oil pressure,1994,2
+Oil leak,1974,2
+Electrical,2004,2
+Driveshaft,2004,2
+Not classified,1988,2
+Overheating,1977,2
+Driveshaft,2007,2
+Driveshaft,2005,2
+Brakes,2008,2
+Clutch,2005,2
+Throttle,2015,2
+Withdrew,1978,2
+Suspension,2008,2
+Out of fuel,1968,2
+Out of fuel,1970,2
+Clutch,2011,2
+Clutch,2014,2
+Overheating,1975,2
+Out of fuel,1972,2
+Withdrew,1994,2
+Out of fuel,1964,2
+Not classified,1990,2
+Clutch,1997,2
+Oil leak,1962,2
+Suspension,1984,2
+Withdrew,1984,2
+Suspension,2018,2
+ERS,2015,2
+Suspension,2017,2
+Suspension,2015,2
+Oil pump,1951,2
+Oil leak,1961,2
+Throttle,2007,2
+Oil pump,1963,2
+Oil pump,1973,2
+Brakes,1962,2
+Oil leak,1951,2
+Withdrew,1980,2
+Brakes,1964,2
+Suspension,2009,2
+Clutch,2003,2
+Fuel leak,1966,2
+Pneumatics,2004,2
+Wheel nut,2013,2
+Rear wing,2002,2
+Water pump,1984,2
+Spun off,1957,2
+Gearbox,1967,2
+Spun off,1956,2
+Disqualified,1997,2
+Spun off,2019,2
+Disqualified,1999,2
+Disqualified,2000,2
+Disqualified,2002,2
+Gearbox,1957,2
+Wheel nut,2012,2
+Water leak,1982,2
+Gearbox,1951,2
+Wheel,1954,2
+Spun off,2016,2
+Spun off,2015,2
+Fuel system,1995,2
+Spun off,2012,2
+Disqualified,2007,2
+Fuel,1997,2
+Retired,1950,2
+Wheel,1968,2
+Wheel,1970,2
+Disqualified,1985,2
+Disqualified,1981,2
+Disqualified,1979,2
+Disqualified,1977,2
+Water leak,1987,2
+Alternator,1966,2
+Gearbox,2013,2
+Steering,1964,2
+Differential,1989,2
+Differential,1990,2
+Differential,1991,2
+Differential,1999,2
+Injection,1984,2
+Water leak,2011,2
+Disqualified,1954,2
+Radiator,1983,2
+Radiator,1984,2
+Radiator,1985,2
+Disqualified,1960,2
+Disqualified,1961,2
+Radiator,1986,2
+Radiator,1987,2
+Radiator,1988,2
+Exhaust,2018,2
+Disqualified,1972,2
+Withdrew,1951,2
+Spun off,1967,2
+Fuel system,1987,2
+Spun off,2010,2
+Disqualified,2011,2
+Fuel pump,1965,2
+Fuel pump,1960,2
+Distributor,1984,2
+Fuel pump,1955,2
+Fuel pump,1953,2
+Retired,2005,2
+Fuel pressure,2012,2
+Wheel,2011,2
+Spark plugs,1982,2
+Fuel pressure,2000,2
+Fuel pressure,1977,2
+Wheel,2017,2
+Fuel pressure,1955,2
+Wheel,2019,2
+Clutch,1962,2
+Fuel leak,1991,2
+Safety concerns,2000,2
+Wheel bearing,1961,2
+Wheel bearing,1962,2
+Retired,2018,2
+Retired,2019,2
+Fuel leak,1977,2
+Safety,2002,2
+Fuel leak,1970,2
+Fuel pump,1964,2
+Fuel pump,1967,2
+Fuel system,1980,2
+Fuel pump,1973,2
+Disqualified,2019,2
+Wheel,1975,2
+Spun off,1950,2
+Distributor,1978,2
+Fuel system,1970,2
+Fuel leak,1954,2
+Fuel system,1967,2
+Fuel system,1965,2
+Fuel system,1962,2
+Wheel bearing,1990,2
+Fuel system,1960,2
+Fuel system,1954,2
+Fuel system,1953,2
+Wheel,1984,2
+Fuel pump,1993,2
+Fuel pump,1991,2
+Fuel pump,1990,2
+Wheel,1991,2
+Wheel,1994,2
+Wheel,1995,2
+Wheel,1996,2
+Fuel pump,1977,2
+Wheel,1999,2
+Water leak,1983,2
+Water leak,2006,2
+Ignition,1959,2
+Handling,1988,2
+Steering,1982,2
+Withdrew,1968,2
+Hydraulics,1993,2
+Excluded,1987,2
+Tyre,1980,2
+Tyre,1981,2
+Heat shield fire,1995,2
+Tyre,1984,2
+Ignition,1972,2
+Tyre,1991,2
+Tyre,1993,2
+Heat shield fire,1959,2
+Withdrew,1969,2
+Puncture,1992,2
+Turbo,1978,2
+Heat shield fire,1951,2
+Ignition,1976,2
+Driver unwell,1964,2
+Tyre,2015,2
+Differential,1966,2
+Hydraulics,1997,2
+Differential,1963,2
+Collision damage,2019,2
+Collision damage,2015,2
+Alternator,1985,2
+Alternator,1988,2
+Hydraulics,2018,2
+Wheel bearing,1977,2
+Accident,2001,2
+Turbo,1981,2
+Turbo,2014,2
+Withdrew,1966,2
+Differential,1962,2
+Hydraulics,2009,2
+Exhaust,1983,2
+Steering,2006,2
+Chassis,1974,2
+Power loss,2002,2
+Exhaust,1984,2
+Exhaust,1987,2
+Withdrew,1959,2
+Handling,1989,2
+Handling,1992,2
+Exhaust,2002,2
+Handling,1961,2
+Puncture,2013,2
+Power Unit,2019,2
+Transmission,2013,2
+Halfshaft,1997,2
+Halfshaft,1993,2
+Halfshaft,1989,2
+Differential,1970,2
+Halfshaft,1987,2
+Halfshaft,1983,2
+Water leak,1965,2
+Transmission,2008,2
+Supercharger,1952,2
+Radiator,1951,2
+Injection,1979,2
+Radiator,1959,2
+Water leak,1976,2
+Halfshaft,1965,2
+Halfshaft,1964,2
+Halfshaft,1963,2
+Halfshaft,2001,2
+Ignition,1953,2
+Supercharger,1950,2
+Handling,1975,2
+Handling,1979,2
+Handling,1981,2
+Overheating,1972,2
+Puncture,2007,2
+Handling,1977,2
+Handling,1976,2
+Differential,1968,2
+Clutch,1967,2
+Ignition,1988,2
+Ignition,1979,2
+Handling,1970,2
+Chassis,1973,1
+Broken wing,2002,1
+Broken wing,1998,1
+Chassis,1979,1
+Chassis,1960,1
+Suspension,1950,1
+CV joint,1985,1
+Chassis,1961,1
+Broken wing,2006,1
+Steering,2018,1
+Steering,2012,1
+Supercharger,1951,1
+Chassis,1956,1
+Chassis,1957,1
+Suspension,1957,1
+Chassis,1980,1
+Steering,1980,1
+Steering,2010,1
+Broken wing,1996,1
+Steering,1994,1
+Brakes,1994,1
+Stalled,1950,1
+Stalled,2001,1
+Steering,1952,1
+Steering,1954,1
+Steering,1993,1
+Steering,1992,1
+Steering,1990,1
+Steering,1958,1
+Steering,1988,1
+Chassis,1975,1
+Steering,1960,1
+Steering,1963,1
+Steering,1985,1
+Steering,1984,1
+Steering,1971,1
+Steering,1995,1
+Steering,1996,1
+Steering,1997,1
+Chassis,1963,1
+Broken wing,1988,1
+Suspension,1959,1
+Chassis,1978,1
+Broken wing,1994,1
+Broken wing,1992,1
+Steering,2007,1
+Broken wing,1990,1
+Broken wing,1986,1
+Steering,1999,1
+Broken wing,1982,1
+Brakes,1991,1
+Chassis,1968,1
+Chassis,1969,1
+Steering,2004,1
+Steering,2002,1
+Brakes,2011,1
+Broken wing,1968,1
+Transmission,2009,1
+Brakes,1971,1
+Water pump,1968,1
+Wheel,1951,1
+Wheel,1952,1
+Wheel,1957,1
+Wheel,1959,1
+Wheel,1963,1
+Wheel,1964,1
+Wheel,1965,1
+Wheel,1971,1
+Wheel,1976,1
+Wheel,1977,1
+Wheel,1980,1
+Wheel,1982,1
+Wheel,1986,1
+Wheel,1988,1
+Wheel,1992,1
+Wheel,1997,1
+Wheel,1998,1
+Wheel,2000,1
+Wheel,2002,1
+Water pump,1979,1
+Water pump,1963,1
+Wheel,2007,1
+Water pump,1957,1
+Water leak,1979,1
+Water leak,1981,1
+Water leak,1985,1
+Water leak,1986,1
+Water leak,1990,1
+Water leak,1994,1
+Water leak,1995,1
+Water leak,1997,1
+Water leak,2001,1
+Water leak,2014,1
+Water leak,2017,1
+Water pipe,1950,1
+Water pipe,1968,1
+Water pipe,1970,1
+Water pressure,2007,1
+Water pressure,2013,1
+Water pressure,2014,1
+Water pressure,2017,1
+Water pressure,2019,1
+Wheel,2004,1
+Wheel,2009,1
+Brakes,1970,1
+Wheel nut,2016,1
+Wheel rim,2002,1
+Wheel rim,2005,1
+Wheel rim,2006,1
+Withdrew,1950,1
+Withdrew,1958,1
+Accident,1998,1
+Accident,1996,1
+Withdrew,1967,1
+Withdrew,1972,1
+Withdrew,1983,1
+Withdrew,1986,1
+Withdrew,1989,1
+Withdrew,1993,1
+Withdrew,1996,1
+Withdrew,1999,1
+107% Rule,2002,1
+Withdrew,2009,1
+Withdrew,2012,1
+Withdrew,2013,1
+Wheel nut,2017,1
+Wheel nut,2011,1
+Alternator,1967,1
+Wheel nut,2005,1
+Wheel,2015,1
+Wheel,2016,1
+Wheel bearing,1952,1
+Wheel bearing,1953,1
+Wheel bearing,1954,1
+Wheel bearing,1955,1
+Wheel bearing,1957,1
+Wheel bearing,1963,1
+Wheel bearing,1964,1
+Wheel bearing,1971,1
+Wheel bearing,1975,1
+Wheel bearing,1981,1
+Wheel bearing,1983,1
+Wheel bearing,1985,1
+Wheel bearing,1987,1
+Wheel bearing,1991,1
+Wheel bearing,1995,1
+Wheel bearing,1997,1
+Wheel bearing,1999,1
+Water leak,1974,1
+Water leak,1972,1
+Water leak,1969,1
+Throttle,1987,1
+Throttle,2000,1
+Throttle,2004,1
+Throttle,2006,1
+Throttle,2010,1
+Throttle,2012,1
+Track rod,2006,1
+Track rod,2010,1
+Brakes,1951,1
+Brakes,1950,1
+Brake duct,2015,1
+Battery,2018,1
+Battery,2001,1
+Transmission,1965,1
+Battery,1995,1
+Transmission,1967,1
+Transmission,1970,1
+Transmission,1971,1
+Battery,1983,1
+Battery,1964,1
+Throttle,1997,1
+Throttle,1986,1
+Water leak,1967,1
+Throttle,1985,1
+Brakes,1969,1
+Suspension,2004,1
+Brakes,1967,1
+Brakes,1961,1
+Technical,2006,1
+Technical,2007,1
+Technical,2010,1
+Technical,2014,1
+Throttle,1955,1
+Throttle,1956,1
+Throttle,1957,1
+Throttle,1958,1
+Throttle,1962,1
+Throttle,1964,1
+Throttle,1966,1
+Throttle,1970,1
+Throttle,1976,1
+Throttle,1979,1
+Throttle,1980,1
+Battery,1962,1
+Axle,1970,1
+Axle,1960,1
+Transmission,1983,1
+Tyre,1982,1
+Tyre,1987,1
+Tyre,1990,1
+Tyre,1998,1
+Tyre,1999,1
+Tyre,2003,1
+Tyre,2007,1
+Tyre,2008,1
+Tyre,2013,1
+Tyre,2016,1
+Tyre,2018,1
+Tyre puncture,2005,1
+Underweight,1997,1
+Vibrations,1960,1
+Vibrations,1975,1
+Vibrations,1983,1
+Vibrations,1996,1
+Vibrations,1998,1
+Vibrations,2017,1
+Alternator,1968,1
+Tyre,1974,1
+Tyre,1956,1
+Transmission,2015,1
+Axle,1957,1
+Axle,1950,1
+Alternator,2013,1
+Alternator,2000,1
+Alternator,1999,1
+Alternator,1992,1
+Transmission,2007,1
+Chassis,1989,1
+Transmission,2019,1
+Turbo,2018,1
+Turbo,1952,1
+Turbo,1957,1
+Turbo,1977,1
+Turbo,1980,1
+Alternator,1977,1
+Alternator,1971,1
+Turbo,1988,1
+Turbo,2015,1
+Chassis,1984,1
+Electronics,2014,1
+Chassis,1990,1
+Halfshaft,1957,1
+Disqualified,1956,1
+Disqualified,1952,1
+Differential,2009,1
+Differential,1994,1
+Differential,1992,1
+Differential,1983,1
+Differential,1982,1
+Differential,1980,1
+Differential,1978,1
+Halfshaft,1953,1
+Halfshaft,1954,1
+Halfshaft,1956,1
+Differential,1976,1
+Chassis,1991,1
+Halfshaft,1962,1
+Differential,1975,1
+Differential,1973,1
+Halfshaft,1970,1
+Halfshaft,1971,1
+Halfshaft,1980,1
+Halfshaft,1981,1
+Halfshaft,1990,1
+Halfshaft,1994,1
+Halfshaft,1996,1
+Halfshaft,1998,1
+Halfshaft,2000,1
+Disqualified,1958,1
+Disqualified,1959,1
+Disqualified,1963,1
+Disqualified,1964,1
+Distributor,1964,1
+Distributor,1957,1
+Disqualified,2014,1
+Disqualified,2009,1
+Disqualified,2008,1
+Fuel system,1990,1
+Fuel system,1991,1
+Fuel system,1994,1
+Fuel system,1996,1
+Fuel system,2000,1
+Fuel system,2013,1
+Fuel system,2015,1
+Disqualified,2001,1
+Disqualified,1998,1
+Disqualified,1995,1
+Disqualified,1993,1
+Disqualified,1992,1
+Disqualified,1991,1
+Disqualified,1986,1
+Disqualified,1976,1
+Disqualified,1975,1
+Disqualified,1973,1
+Disqualified,1969,1
+Disqualified,1967,1
+Disqualified,1966,1
+Handling,1969,1
+Handling,1971,1
+Differential,1969,1
+Crankshaft,2001,1
+Hydraulics,2016,1
+Hydraulics,2019,1
+Ignition,1954,1
+Ignition,1955,1
+Ignition,1956,1
+Ignition,1958,1
+Ignition,1960,1
+Collision damage,2014,1
+Collision damage,2012,1
+Collision,1985,1
+107% Rule,2001,1
+Ignition,1975,1
+Ignition,1978,1
+Ignition,1985,1
+Collision,1980,1
+Ignition,1990,1
+Ignition,1994,1
+Ignition,2002,1
+Injection,1954,1
+Injection,1955,1
+Injection,1961,1
+Injection,1965,1
+Injection,1971,1
+Injection,1973,1
+Injection,1975,1
+Hydraulics,2012,1
+Damage,2019,1
+Handling,1978,1
+Differential,1952,1
+Handling,1984,1
+Handling,1987,1
+Handling,1990,1
+Handling,1993,1
+Handling,1994,1
+Handling,1995,1
+Handling,1996,1
+Handling,2004,1
+Heat shield fire,1954,1
+Heat shield fire,1958,1
+Heat shield fire,1961,1
+Heat shield fire,1974,1
+Heat shield fire,1980,1
+Heat shield fire,1981,1
+Heat shield fire,1983,1
+Heat shield fire,1985,1
+Heat shield fire,1986,1
+Heat shield fire,1994,1
+Heat shield fire,1996,1
+Heat shield fire,2006,1
+Heat shield fire,2011,1
+Hydraulics,1987,1
+Differential,1965,1
+Differential,1961,1
+Differential,1959,1
+Distributor,1969,1
+Fuel system,1969,1
+Fuel system,1963,1
+Driver unwell,1983,1
+Driver unwell,1978,1
+Driver unwell,1965,1
+Engine fire,2005,1
+Engine misfire,2011,1
+Excluded,1992,1
+Excluded,2015,1
+Exhaust,1952,1
+Exhaust,1953,1
+Exhaust,1976,1
+Exhaust,1978,1
+Exhaust,1980,1
+Driver Seat,2008,1
+Exhaust,1986,1
+Exhaust,1989,1
+Exhaust,2001,1
+Exhaust,2006,1
+Exhaust,2010,1
+Exhaust,2012,1
+Exhaust,2014,1
+Exhaust,2019,1
+Eye injury,1972,1
+Fatal accident,1970,1
+Fatal accident,1974,1
+Fatal accident,1982,1
+Fire,1989,1
+Driver unwell,1982,1
+Driver unwell,1985,1
+Fire,2004,1
+Driveshaft,1987,1
+Electronics,2009,1
+Electronics,2007,1
+Electronics,2006,1
+Electronics,2004,1
+Electronics,2003,1
+Electronics,2002,1
+Electrical,2018,1
+Electrical,2013,1
+Electrical,2011,1
+Electrical,2010,1
+Electrical,2008,1
+Electrical,2007,1
+Electrical,1978,1
+Electrical,1971,1
+Electrical,1963,1
+Electrical,1962,1
+Electrical,1960,1
+Electrical,1957,1
+Electrical,1953,1
+Electrical,1952,1
+Drivetrain,2014,1
+Drivetrain,2002,1
+Driveshaft,2017,1
+Driveshaft,2010,1
+Driveshaft,2003,1
+Fire,1999,1
+Front wing,2007,1
+Fuel system,1961,1
+Fuel pressure,1970,1
+Distributor,1990,1
+Fuel pressure,2002,1
+Fuel pressure,2005,1
+Fuel pressure,2010,1
+Fuel pressure,2017,1
+Fuel pressure,2018,1
+Fuel pump,1950,1
+Fuel pump,1961,1
+Fuel pump,1962,1
+Fuel pump,1975,1
+Fuel pump,1976,1
+Fuel pump,1981,1
+Fuel pump,1983,1
+Fuel pump,1984,1
+Fuel pump,1985,1
+Fuel pump,1986,1
+Fuel pump,1989,1
+Fuel pump,1996,1
+Fuel pump,1998,1
+Fuel pump,2006,1
+Fuel pump,2010,1
+Fuel rig,2001,1
+Fuel rig,2003,1
+Fuel system,1951,1
+Fuel system,1955,1
+Fuel pressure,1971,1
+Fuel pipe,1978,1
+Front wing,2010,1
+Fuel pipe,1976,1
+Front wing,2015,1
+Front wing,2017,1
+Fuel,2002,1
+Fuel,2003,1
+Fuel leak,1951,1
+Fuel leak,1952,1
+Fuel leak,1955,1
+Fuel leak,1956,1
+Fuel leak,1959,1
+Fuel leak,1961,1
+Fuel leak,1962,1
+Fuel leak,1964,1
+Fuel leak,1965,1
+Fuel leak,1967,1
+Fuel leak,1972,1
+Fuel leak,1973,1
+Fuel leak,1979,1
+Fuel leak,1981,1
+Fuel leak,1984,1
+Fuel leak,1987,1
+Fuel leak,1988,1
+Fuel leak,1989,1
+Fuel leak,1990,1
+Fuel leak,1995,1
+Fuel pipe,1970,1
+Collision,1978,1
+Injection,1983,1
+Injection,1985,1
+Overheating,2019,1
+Physical,1958,1
+Physical,1959,1
+Physical,1963,1
+Physical,1969,1
+Physical,1971,1
+Physical,1972,1
+Physical,1973,1
+Physical,1974,1
+Physical,1975,1
+Physical,1976,1
+Physical,1978,1
+Physical,1982,1
+Physical,1983,1
+Physical,1987,1
+Physical,1989,1
+Physical,1992,1
+Physical,1994,1
+Physical,1999,1
+Pneumatics,2006,1
+Pneumatics,2013,1
+Clutch,1971,1
+Clutch,1969,1
+Clutch,1968,1
+Power Unit,2018,1
+Power loss,2016,1
+Physical,1953,1
+Overheating,2018,1
+Puncture,1974,1
+Overheating,2016,1
+Electronics,2012,1
+Out of fuel,1993,1
+Out of fuel,1994,1
+Out of fuel,1997,1
+Out of fuel,2005,1
+Out of fuel,2009,1
+Out of fuel,2019,1
+Overheating,1955,1
+Overheating,1962,1
+Clutch,1977,1
+Overheating,1966,1
+Overheating,1976,1
+Overheating,1980,1
+Overheating,1981,1
+Overheating,1983,1
+Clutch,1972,1
+Overheating,1991,1
+Overheating,1992,1
+Overheating,1994,1
+Overheating,1995,1
+Overheating,1999,1
+Overheating,2004,1
+Overheating,2008,1
+Overheating,2009,1
+Overheating,2010,1
+Puncture,1962,1
+Puncture,1985,1
+Out of fuel,1978,1
+Rear wing,2010,1
+Rear wing,2012,1
+Rear wing,2014,1
+Refuelling,2007,1
+Retired,1951,1
+Retired,1955,1
+Retired,1957,1
+Retired,1963,1
+Retired,1966,1
+Retired,1976,1
+Retired,1981,1
+Retired,1982,1
+Retired,1985,1
+Retired,2006,1
+Clutch,1961,1
+Safety belt,1996,1
+Seat,2017,1
+Spark plugs,2017,1
+Spun off,1951,1
+Spun off,1952,1
+Spun off,1971,1
+Spun off,1973,1
+Clutch,1956,1
+Clutch,1955,1
+Clutch,1950,1
+Chassis,2002,1
+Rear wing,2011,1
+Rear wing,2004,1
+Puncture,1988,1
+Rear wing,1999,1
+Puncture,1990,1
+Puncture,1994,1
+Puncture,1995,1
+Puncture,1997,1
+Puncture,1998,1
+Puncture,2004,1
+Puncture,2010,1
+Puncture,2011,1
+Puncture,2012,1
+Puncture,2016,1
+Radiator,1950,1
+Radiator,1952,1
+Radiator,1960,1
+Radiator,1962,1
+Radiator,1963,1
+Radiator,1970,1
+Radiator,1973,1
+Radiator,1975,1
+Radiator,1976,1
+Radiator,1977,1
+Radiator,1990,1
+Radiator,1991,1
+Radiator,1994,1
+Radiator,2003,1
+Radiator,2008,1
+Out of fuel,1983,1
+Out of fuel,1976,1
+Injection,1986,1
+Mechanical,2007,1
+Mechanical,2010,1
+Mechanical,2011,1
+Mechanical,2016,1
+Mechanical,2018,1
+Not classified,1950,1
+Not classified,1951,1
+Not classified,1961,1
+Not classified,1962,1
+Not classified,1964,1
+Not classified,1965,1
+Collision,1969,1
+Collision,1958,1
+Collision,1950,1
+Clutch,2010,1
+Clutch,2009,1
+Clutch,2008,1
+Not classified,1978,1
+Clutch,2006,1
+Clutch,2004,1
+Not classified,1993,1
+Not classified,2004,1
+Not restarted,2000,1
+Oil leak,1952,1
+Oil leak,1963,1
+Clutch,2000,1
+Mechanical,2008,1
+Mechanical,2005,1
+Oil leak,1971,1
+Mechanical,2003,1
+Injection,1987,1
+Injection,1988,1
+Injection,1991,1
+Injured,1977,1
+Injured,1988,1
+Injured,1990,1
+Injured,1995,1
+Injured,2002,1
+Injured,2003,1
+Injured,2009,1
+Injury,1966,1
+Injury,1982,1
+Injury,1985,1
+Injury,1987,1
+Injury,1993,1
+Injury,1996,1
+Injury,1997,1
+Injury,1998,1
+Injury,2002,1
+Injury,2011,1
+Launch control,2003,1
+Magneto,1961,1
+Mechanical,1982,1
+Mechanical,1986,1
+Mechanical,1992,1
+Clutch,1998,1
+Oil leak,1981,1
+Out of fuel,1973,1
+Oil pressure,1958,1
+Oil pressure,1974,1
+Oil pressure,1981,1
+Oil pressure,1990,1
+Oil pressure,1993,1
+Oil pressure,1995,1
+Oil pressure,2000,1
+Oil pressure,2001,1
+Oil pressure,2002,1
+Oil pressure,2006,1
+Oil pressure,2009,1
+Oil pressure,2014,1
+Oil pressure,2017,1
+Oil pump,1950,1
+Oil pump,1952,1
+Oil pump,1976,1
+Oil pump,1983,1
+Oil pump,1996,1
+Out of fuel,1950,1
+Out of fuel,1953,1
+Out of fuel,1955,1
+Out of fuel,1965,1
+Out of fuel,1966,1
+Out of fuel,1967,1
+Out of fuel,1969,1
+Out of fuel,1971,1
+Oil pressure,1964,1
+Oil pressure,1956,1
+Oil leak,1985,1
+Oil pressure,1954,1
+Oil leak,1987,1
+Oil leak,1988,1
+Oil leak,1989,1
+Oil leak,1990,1
+Oil leak,1999,1
+Oil leak,2000,1
+Oil leak,2003,1
+Oil leak,2006,1
+Oil leak,2009,1
+Oil leak,2010,1
+Oil leak,2013,1
+Oil leak,2014,1
+Oil leak,2015,1
+Oil leak,2017,1
+Oil leak,2018,1
+Oil leak,2019,1
+Oil line,1950,1
+Oil line,2003,1
+Oil pipe,1951,1
+Oil pipe,1958,1
+Oil pipe,1961,1
+Oil pipe,1968,1
+Oil pipe,1969,1
+Oil pressure,1951,1
+Oil pressure,1953,1
+Withdrew,2019,1
